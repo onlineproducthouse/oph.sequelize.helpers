@@ -13,8 +13,7 @@
   },
   "scripts": {
     "clean": "rm -rf node_modules",
-    "build": "tsc",
-    "postinstall": "npm run build"
+    "build": "tsc"
   },
   "devDependencies": {
     "@types/node": "^22.7.4",
