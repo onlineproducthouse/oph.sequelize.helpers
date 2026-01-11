@@ -1,10 +1,10 @@
 {
-  "name": "oph.sequelize.helpers",
+  "name": "oph.sqlize.helpers",
   "version": "0.0.0",
   "description": "Online Product House Sequelize Helpers",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "repository": "https://github.com/onlineproducthouse/oph.sequelize.helpers.git",
+  "repository": "https://github.com/onlineproducthouse/oph.sqlize.helpers.git",
   "author": "Bongani Masuku<bongani@1702tech.com>",
   "license": "MIT",
   "private": true,
