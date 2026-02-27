@@ -8,7 +8,7 @@ npm i -S https://github.com/onlineproducthouse/oph.sqlize.utilities.git
 
 ## Usage
 
-For usage examples, please see [alchemypdf](https://github.com/onlineproducthouse/alchemypdf.db/tree/main/migrations)
+For usage examples, please see [alchemypdf.db](https://github.com/onlineproducthouse/alchemypdf.db/tree/main/migrations)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first
